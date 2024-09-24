@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Root and Steel
+description: Root and Steel SRD
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://PastelGF.github.io/rootandsteel
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/PastelGF/rootandsteel
+
+color_scheme: dark
