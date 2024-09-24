@@ -20,7 +20,7 @@ Roll a d20, and if the roll is lower than the respective ability score, you succ
 ## Hit Protection
 All characters have hit protection (HP). HP is a representation of luck and will to fight that is wittled down in place of more permanent ability score damage.
 
-HP is fully restored after a short breather, only a few minutes.
+HP is fully restored after a short breather, approximately a minute of peace.
 
 ## Ability Score Damage
 Serious injury is represented by a reduction to one of the three ability scores. Strength is most commonly lost when taking critical damage.
@@ -38,6 +38,18 @@ A character's inventory is measured by 10 slots. Items occupy slots. The first f
 Some items are petty. They do not take up a slot. Some items are bulky. They take up two slots.
 
 A character with all slots filled is incapable of fighitng.
+
+## Turns
+Time in Root and Steel is measured in turns and watches. Turns and watches are not a set amount of time, but instead whatever feels most appropriate to the moment.
+
+In combat, time is measured in turns. A combat turn is usually 10 seconds, but may be more.
+
+While exploring, time is measured in watches. In a dungeon, a watch can be anywhere from 5-30 minutes. During open terrain exploration, a watch can be anywhere from 6-12 hours. While resting in a city or other safe place, a watch can be up to several full months.
+
+## Wealth
+Currency is measured in terms of silver coins (sp). 100 silver coins is worth a gold coin. 100 copper coins is worth a gold coin.
+
+100 coins occupies a single slot. Anything less than that is petty.
 
 ## Fatigue
 Whenever a character gains fatigue, they cross off a slot.
