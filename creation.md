@@ -3,6 +3,7 @@ layout: default
 title: Character Creation
 nav_order: 4
 permalink: /creation
+has_children: true
 ---
 # Character Creation
 
@@ -29,53 +30,4 @@ If a character is of advanced age, you may represent this by reducing your STR, 
 ## Name and Traits
 Afterwards, decide your character's name, look, and character traits.
 
-## Defining Backgrounds
 
-### Court Enchanter
-*A professionally trained and learned user of haustoriamancy, the high art. Knowledge based in common imperial doctrine, learned in a classroom, not on the field.*
-
-You know haustoriamancy.
-
-- How did your talents first manifest?
--   a
--   b
--   c
--   d
-- Who tutored you?
--   a
--   b
--   c
--   d
-
-### Wild Mage
-*You learned haustoriamancy the hard way, in the wilderness, training with whatever material you could find. You know illegal magics.*
-
-You know haustoriamancy.
-
-- How did you hide your talents?
--   a
--   b
--   c
--   d
-- Who did you find to teach you?
--   a
--   b
--   c
--   d
-
-### Alchemist
-
-### Grayspeaker
-
-## Backgrounds
-
-### Consortium Hand
-*You owed a debt to the Narstan consortium, and you had to pay with your body and its blood. By now, it's either payed off, or you fled to find freedom.*
-
-If you take a Consortium Hand event, you owe a 750 sp debt to the Consortium, reduced by 250 sp for each event you take. If it isn't payed off, the Consortium will come to collect.
-
-- How did you work pay off your debt?
--   You killed soemone close to you. It was necessary. You have a memento (petty) of them and a dagger (d6 dagger) and dagger training.
--   You stole the wealth of a free man, dooming them to your fate. Gain +1 DEX and their leather armor (1 armor, bulky).
--   You did a stint mining starmetal in the City in Black, a horrid experience well worth the coin. Gain +1 STR and a starmetal shard (petty, can be forged into a weapon that is enhanced against wraiths).
--   You did work for a crime boss, gathering tax and breaking bones. You had to move fast to keep yourself from getting dead. You always go before enemies on the first round of combat (fast and slow turns still apply).
