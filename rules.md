@@ -43,22 +43,33 @@ Some items are petty. They do not take up a slot. Some items are bulky. They tak
 
 A character with all slots filled is incapable of fighitng.
 
-## Turns
+## Skills
+Skills represent abilities a PC possesses that are not located in their equipment, such as the ability to do magic.
+
+## Turns and Watches
 Time in Root and Steel is measured in turns and watches. Turns and watches are not a set amount of time, but instead whatever feels most appropriate to the moment.
 
 In combat, time is measured in turns. A combat turn is usually 10 seconds, but may be more.
 
-While exploring, time is measured in watches. In a dungeon, a watch can be anywhere from 5-30 minutes. During open terrain exploration, a watch can be anywhere from 6-12 hours. While resting in a city or other safe place, a watch can be up to several full months.
+While exploring, time is measured in watches. A dungeon watch can be anywhere from 5-30 minutes. An explorationb watch can be anywhere from 6-12 hours. A city watch can be up to several full months, but usually represents a month.
 
 ## Wealth
 Currency is measured in terms of silver coins (sp). 100 silver coins is worth a gold coin. 100 copper coins is worth a gold coin.
 
 100 coins occupies a single slot. Anything less than that is petty.
 
+### The Price of Our Vices
+For every city watch a PC spends restingm training, or performing any other action, you must spend sp equal to their highest ability score to pay off the cost of living as well as their vices (alcohol, gambling, etc.) in addition to the guild paying off any hirelings or outstanding debts.
+
 ## Fatigue
 Whenever a character gains fatigue, they cross off a slot.
 
-Fatigue is removed with a night of rest with all needs filled.
+Fatigue is removed with a night of rest with all needs filled (food, water, and peaceful sleep).
+
+## Improving HP and Gaining Skills
+By spending 50 sp, a PC can train to attempt to improve their HP. After a city watch, they roll a d6 for their new HP. If this value is lower than their current HP, they may ignore it and gain 1 HP. If a PC has at least 6 HP, they may take more advanced training for 75 sp and roll 2d6 for their new HP, and if they have at least 12 HP, they may take the most advanced training for 100 sp and roll 3d6.
+
+A PC can also spend a training watch gaining new skills. The PC must have a willing trainer, and must offer something to them of equivalent value (usually 100 sp), and then spend a city watch training a new skill. PC's can always use this to unlock haustoriamancy or any of its variants, grayspeaking, or field alchemy, but all other options required specialized trainers that may or may not be willing to help the PC.
 
 ## Reaction Roll
 If the PCs encounter a creature and iit is not clear how it wiill react to them, the Warden may use the following table:
