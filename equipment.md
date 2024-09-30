@@ -7,7 +7,7 @@ permalink: /equipment
 
 # Equipment
 ## Weapons
-Fast (d6) weapons cost 5 silver, Medium (d8) cost 10 silver, and Slow (d10) cost 25 silver. Bulky weapons consume two slots and require two hands to hold effectively. Weapons are listed by category with examples, but there are more options than just the listed examples.
+Fast (d6) weapons cost 5 silver, Medium (d8) cost 10 silver, and Slow (d10) cost 25 silver. Bulky weapons consume two slots and require two hands to hold effectively. You require training in that weapon category to use the special abilities of that weapon. Weapons are listed by category with examples, but there are more options than just the listed examples.
 
 - Straight Swords: d6 Short Sword, d8 Longsword, d10 Greatsword (bulky): On a roll of 6 or higher, deal damage to a second enemy you are engaged with equal to half (rounded down) of your roll.
 - Dueling Swords: d8 Rapier, d10 Estoc (bulky): Reduce damage die by one tier to gain reach. Attack rolls with maximum daamge ignore armor.
