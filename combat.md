@@ -8,10 +8,10 @@ permalink: /combat
 # Combat
 
 ## Turns
-Combat is divided into (usually 10 second) long turns. During each turn, a character can take two actions, usually moving and attacking, but can take each action only once. Some actions require a full turn, consuming both actions.
+Combat is divided into (usually 10 second) long turns. During each turn, a character can take two actions, but can only attack once. Some actions require a full turn, consuming both actions.
 
 ## Zones
-When combat starts, the battlefield is divided into zones. Each zone is a single space around 40 feet in size. A creature can move anywhere within a zone freely, but in order to move between zones it must use an action. Melee weapons can freely attack anything in their current zone, and ranged weapons can attack up to two zone away.
+When combat starts, the battlefield is divided into zones. Each zone is a single space around 40 feet in size. A creature can move anywhere within a zone freely, but in order to move between zones it must use an action. Melee weapons can freely attack anything in their current zone, and ranged weapons can attack up to one zone away.
 
 For example, a battle on a ship might use the zones of: the front deck of the ship, the main deck of the ship, the back deck of the ship, the crow's nest of the ship, and the crew quarter's beneath the ship.
 
@@ -27,12 +27,15 @@ Weapons come in three sizes, fast (d6), medium (d8), and slow (d10). Whenever a 
 
 If the target is unaware, their HP is irrelevant and damage is done directly to STR.
 
-If a creature attacks another and does not kill it, those creatures are engaged. The exception is with a reach weapon. Attacking a creature with a reach weapon does not engage them.
+If a creature attacks another and does not kill it, those creatures are engaged. The exception is with a reach weapon. Attacking a creature with a reach weapon does not engage them. Attempting to flee an engagement allows any other engaged creatures to attack for free.
 
 If two creatures attack each other, they deal damage at the same time, with the excpetion of reach weapons. Reach weapons deal damage before other weapons unless the creatures are engaged, in which case they deal damage after. 
 
 ### Armor
 If a character has armor, any damage they take is first subtracted by their armor. Armor cannot be greater than 3.
+
+### Shields Shall be Splintered
+If a PC takes an attack, they can choose to have their shield destroyed beyond repair and instead take no damage.
 
 ### Improvised Weapons
 Improvised weapons (AKA: Anything that is not intended to be a weapon) deal damage as a weapon of equivalency. A bottle dealls damage like a dagger (d6), a chair leg like a mace (d8), or a chair itself like a greatsword (d10). Improvised weapons break after rolling damage higher than half of their die's value.
@@ -44,12 +47,20 @@ Whenever a creature takes STR damage it must make a STR save. If it fails, it ta
 
 Some enemies have unique abilities that trigger when a PC fails a CRITICAL DAMAGE save.
 
+### Gambits
+A character can attempt to do something more complicated than simply attacking by performing a gambit. They describe their action and the Warden determines where its a simple gambit or a complex gambit:
+- Simple: Anything with short lasting effects or that has no threat of outright killing something, such as tossing sand into something's eyes. The target of the attack saves with the relevant save and if they fail they suffer a reasonable effect and take damage as if they were attacked.
+- Complex: Anything with long lasting effects or that can outright kill, such as a stabbing out an eye. The target saves with the relevant save and if they fail they suffer a reasonable effect, but take no damage.
+
 ## Defending Yourself
 When a PC is attacked, they may gain a fatigue take one of the following 3 options:
 
 - **Block:** To attempt to block with a weapon, shield, or armor, roll a STR save. You must have a shield. If succesful, the attack is Impaired.
 - **Dodge:** To attempt to dodge, roll a DEX save. It must also be greater than the value of your armor, and you cannot dodge while wielding a slow weapon. If succesful, the attack is impaired.
 - **Parry:** To attempt a parry, roll your weapon's damage die against an enemy that is attacking you. If your roll is greater, you deal damage to the opponent's STR, but trigger no CRITICAL DAMAGE save. If their roll is greater, they deal damage to your STR, but trigger no CRITICAL DAMAGE save. If both rolls are equal, nothing happens.
+
+## Morale
+Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader’s WIL in place of their own. Lone foes must save when they’re reduced to 0 HP. Morale does not affect PCs.
 
 ## Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is impaired and the attacker must roll 1d4 damage regardless of the attacks damage die.
@@ -64,4 +75,7 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 
 ## Retreating
 Running away from combat can be done if you are at least one zone away from the nearest enemy, succeed on a DEX save, and have a safe place to retreat too.
+
+## Wounds
+A PC that takes CRITICAL DAMAGE suffers a permanent wound. When a PC suffers a permanent wound, the PC either loses a limb, or recieves a minor cosmetic injury and loses a slot until they recieve medical attention during a city watch.
 
