@@ -30,4 +30,7 @@ If a character is of advanced age, you may represent this by reducing your STR, 
 ## Name and Traits
 Afterwards, decide your character's name, look, and character traits.
 
+## Bonds
+Now create bonds between your PC and the other PCs. This does not need to be done immediately, and can come naturally as play develops.
+
 
